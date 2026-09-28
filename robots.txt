@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.srtkvf.cn/sitemap.xml
